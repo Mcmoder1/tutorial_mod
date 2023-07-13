@@ -1,4 +1,4 @@
-package net.moder0.VanillaPlus;
+package net.moder0.vanillaplus;
 
 import net.fabricmc.api.ModInitializer;
 

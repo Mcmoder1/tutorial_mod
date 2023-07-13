@@ -1,4 +1,4 @@
-package net.moder0.VanillaPlus.mixin;
+package net.moder0.vanillaplus.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

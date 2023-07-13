@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.moder0.VanillaPlus.mixin",
+	"package": "net.moder0.vanillaplus.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
       "VanillaPlusMixin"
